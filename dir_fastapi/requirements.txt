@@ -1,0 +1,14 @@
+#requirement file
+torch
+torchaudio
+fastapi
+uvicorn
+pydantic
+typer
+dynaconf
+jinja2
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+numpy
+
